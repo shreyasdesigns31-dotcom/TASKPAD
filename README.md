@@ -16,7 +16,7 @@ $ taskpad list
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/taskpad.git
+git clone https://github.com/shreyasdesigns31-dotcom/taskpad.git
 cd taskpad
 pip install -e .
 ```
